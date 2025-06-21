@@ -2,11 +2,11 @@
 
 **COVID-19 Vaccination Data Analysis in India using Python**
 
-In this project, I performed "Exploratory Data Analysis (EDA)" & "Visualization" on real-world COVID-19 vaccination data to uncover meaningful insights:
-✅ State-wise vaccination distribution 
+In this project, I performed "Exploratory Data Analysis (EDA)" & "Visualization" on real-world COVID-19 vaccination data to uncover meaningful insights:\
+✅ State-wise vaccination distribution\ 
 ✅ Monthly and weekly vaccination trends 
-✅ Vaccination distribution by gender and age group 
-✅ Vaccine type analysis (Covishield, Covaxin, Sputnik V) 
+✅ Vaccination distribution by gender and age group \
+✅ Vaccine type analysis (Covishield, Covaxin, Sputnik V)\
 ✅ Cleaned, transformed and visualized data
 
 🔍 My project answers through visualizations:
