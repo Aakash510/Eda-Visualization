@@ -27,8 +27,8 @@ After plotting line plot and scatter plot we find that
 - The Individual's  **smoking level increases** and have **not done any physical activity** have their HeartDisease or Attack  tends to **slightly increases,** 
 but the relationship is not strong positive.
 
-from bar plot we find that
-Most heart disease cases are occurred in the **older age groups (around 55–75 years).**
+From bar plot we find that
+- Most heart disease cases are occurred in the **older age groups (around 55–75 years).**
 also people with **lower education levels** or as the **illiteracy rate is increase** have a **higher chance** of heart disease or attack.
 
 
